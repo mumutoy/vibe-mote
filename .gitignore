@@ -38,3 +38,5 @@ DEVELOPMENT-NOTES.md
 
 # VB-CABLE 安装器：第三方二进制，不随仓库分发（用户自行从 vb-audio.com 下载）
 vbcable/
+# Claude Code 会话级开发文档（不进公开仓库）
+CLAUDE.md
